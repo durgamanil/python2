@@ -1,0 +1,8 @@
+
+
+
+print("this is first jupyter")
+
+output:
+
+this is first jupyter

@@ -1,0 +1,11 @@
+python drop down menu links
+
+https://ctechf.com/python-gui-programming/
+https://stackoverflow.com/questions/34333493/multiple-comboboxes-in-tkinter-python
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.tumblr.com%2F9hgswys%2F8tymj8c2r%2Fold.gif&imgrefurl=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F36415606%2Fadding-a-menu-inside-of-a-menubutton-python&tbnid=mrJXux3Qh2RWvM&vet=12ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygVegQIARAt..i&docid=NoZIJlN1yrfmYM&w=407&h=348&q=dropdown%20navigation%20menu%20in%20python&hl=en&ved=2ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygVegQIARAt
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FCaK3B.png&imgrefurl=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F49868003%2Fbokeh-multi-level-dropdown-menu%3Fnoredirect%3D1%26lq%3D1&tbnid=mPCYmEzgH5VSHM&vet=12ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygdegQIARBC..i&docid=o8dWAd13VZN8IM&w=1798&h=960&q=dropdown%20navigation%20menu%20in%20python&hl=en&ved=2ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygdegQIARBC
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FSehDW.png&imgrefurl=https%3A%2F%2Fgis.stackexchange.com%2Fquestions%2F231310%2Fcreating-a-drop-down-menu-selection-with-preset-options-in-python-script-tool&tbnid=gs2wwYEjwzpxFM&vet=12ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygnegQIARBX..i&docid=JS_m2dTuygDcGM&w=437&h=554&q=dropdown%20navigation%20menu%20in%20python&hl=en&ved=2ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygnegQIARBX
+https://stackoverflow.com/search?q=drop+down+menu+in+python
+https://stackoverflow.com/questions/19824677/drop-down-menu-python-gui
+https://stackoverflow.com/questions/26021299/python-tkinter-cant-select-option-in-optionmenu
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.packt-cdn.com%2Fproducts%2F9781787129450%2Fgraphics%2FGUI_combobox_widget.png&imgrefurl=https%3A%2F%2Fsubscription.packtpub.com%2Fbook%2Fapplication_development%2F9781787129450%2F1%2Fch01lvl1sec14%2Fcombo-box-widgets&tbnid=IAEAbGRyoj3nIM&vet=12ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygXegQIARAy..i&docid=5qzq9PFV-8IHzM&w=266&h=166&q=dropdown%20navigation%20menu%20in%20python&hl=en&ved=2ahUKEwiNpPvqk7rmAhUbUn0KHSIwA_sQMygXegQIARAy
